@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("hello i'm master second\n");
+	printf("hello i'm master first\n");
 	return 0;
 }
